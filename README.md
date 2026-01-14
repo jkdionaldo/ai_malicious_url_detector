@@ -4,6 +4,16 @@ Student-friendly, presentation-ready project using **Lexical Feature Extraction*
 
 This version runs as a professional, standalone-style interactive tool (good for compiling into a single `.exe`).
 
+## Download & Run (Windows)
+
+If you want users to **download a ZIP and run the `.exe`**, publish the `.exe` as a **GitHub Release asset** (recommended) instead of committing it into the source repo.
+
+- Download the latest release here: https://github.com/jkdionaldo/ai_malicious_url_detector/releases/latest
+- Extract the ZIP
+- Run `MaliciousURLDetector.exe`
+
+Note: Windows may show a SmartScreen warning for unsigned executables. Use **More info → Run anyway** if you trust the source.
+
 ## What you need
 
 - Python 3.10+ recommended
