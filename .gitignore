@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Packaged binaries (avoid committing release artifacts)
+*.exe
+*.msi
+*.zip
+*.tar.gz
+
+# Logs
+*.log
