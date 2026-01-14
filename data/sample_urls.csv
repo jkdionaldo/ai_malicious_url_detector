@@ -1,0 +1,11 @@
+url,type
+https://www.google.com,benign
+https://www.microsoft.com/en-us/,benign
+https://github.com/login,benign
+http://paypal.com.secure-login.account.verify.badsite.ru/login,phishing
+http://trusted.com@evil.com/path?session=abcd,phishing
+http://192.168.0.5/login.php?user=admin&pass=1234,malware
+https://tinyurl.com/2p9f2k7c,phishing
+https://example.com/account/update?token=9a8b7c6d5e,phishing
+https://www.wikipedia.org,benign
+http://secure-login-paypal-update.com/verify,phishing
