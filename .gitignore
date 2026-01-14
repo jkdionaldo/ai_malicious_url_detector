@@ -32,3 +32,6 @@ dist/
 
 # Logs
 *.log
+
+# Local notes
+HOW_I_BUILT_THIS_APP.txt
